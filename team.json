@@ -1,0 +1,113 @@
+  {
+    name: "Lodingglue",
+    role: "Platform Native Developer & Reverser",
+    image: "/placeholder.svg?height=400&width=400",
+    bio: "Diving into the depths of code where others fear to tread. Breaks things for fun, fixes them because someone has to. Probably hasn't seen sunlight in weeks.",
+    social: {
+      twitter: "#",
+      linkedin: "#",
+      github: "#",
+    },
+  },
+  {
+    name: "BeestoXd",
+    role: "Full Stack Developer & DevOps Engineer",
+    image: "/placeholder.svg?height=400&width=400",
+    bio: "Specializes in building robust full-stack applications with a focus on scalability and performance. Implements CI/CD pipelines and infrastructure as code to ensure seamless deployment and operation.",
+    social: {
+      twitter: "#",
+      linkedin: "#",
+      github: "#",
+    },
+  },
+  {
+    name: "Mostafizur Rahman",
+    role: "Full Stack Developer",
+    image: "/placeholder.svg?height=400&width=400",
+    bio: "The architect behind this very website. Turns coffee into code with alarming efficiency. Known for fixing impossible bugs while simultaneously creating new ones. If the site breaks, it's definitely not his fault (it is).",
+    social: {
+      twitter: "#",
+      linkedin: "#",
+      github: "#",
+    },
+    easterEgg:
+      "Once coded for 72 hours straight and thought his rubber duck was giving him actual advice. Still insists it was right about the recursive function.",
+  },
+  {
+    name: "AYAAN MCPE",
+    role: "Developer",
+    image: "/placeholder.svg?height=400&width=400",
+    bio: "Code whisperer who somehow makes the impossible work. Probably held together by energy drinks and sheer willpower.",
+    social: {
+      twitter: "#",
+      linkedin: "#",
+      github: "#",
+    },
+  },
+  {
+    name: "FARIZ MCPE",
+    role: "Developer",
+    image: "/placeholder.svg?height=400&width=400",
+    bio: "Turns complex problems into elegant solutions. Or at least solutions that don't immediately catch fire.",
+    social: {
+      twitter: "#",
+      linkedin: "#",
+      github: "#",
+    },
+  },
+  {
+    name: "Csub",
+    role: "Developer",
+    image: "/placeholder.svg?height=400&width=400",
+    bio: "Infrastructure specialist who treats servers better than most people treat their pets. Speaks fluent Docker.",
+    social: {
+      twitter: "#",
+      linkedin: "#",
+      github: "#",
+    },
+  },
+  {
+    name: "Xzyyy",
+    role: "Developer",
+    image: "/placeholder.svg?height=400&width=400",
+    bio: "Backend maestro who writes code so clean you could eat off it. Not that you should, but you could.",
+    social: {
+      twitter: "#",
+      linkedin: "#",
+      github: "#",
+    },
+  },
+  {
+    name: "Lisa",
+    role: "Developer",
+    image: "/placeholder.svg?height=400&width=400",
+    bio: "UI specialist who makes interfaces so intuitive even your grandma could use them. Yes, even your grandma.",
+    social: {
+      twitter: "#",
+      linkedin: "#",
+      github: "#",
+    },
+  },
+  {
+    name: "Aidgods",
+    role: "Developer",
+    image: "/placeholder.svg?height=400&width=400",
+    bio: "Digital problem solver who debugs code like it personally offended them. Keyboard warrior in the most literal sense.",
+    social: {
+      twitter: "#",
+      linkedin: "#",
+      github: "#",
+    },
+  },
+  {
+    name: "ExocubeYT",
+    role: "Developer",
+    image: "/placeholder.svg?height=400&width=400",
+    bio: "Creates digital experiences that make users go 'woah' instead of 'why?' Pixel perfectionist with a side of chaos.",
+    social: {
+      twitter: "#",
+      linkedin: "#",
+      github: "#",
+    },
+  },
+]
