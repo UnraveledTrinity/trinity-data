@@ -2,19 +2,19 @@
   { 
     "name": "Lodingglue",
     "role": "Platform Native Developer & Reverser",
-    "image": "/placeholder.svg?height=400&width=400",
-    "bio": "Diving into the depths of code where others fear to tread. Breaks things for fun, fixes them because someone has to. Probably hasn't seen sunlight in weeks.",
+    "image": "https://github.com/Lodingglue.png",
+    "bio": "Unreadable Code? More like real-time obfuscation.",
     "social": {
       "twitter": "#",
       "linkedin": "#",
-      "github": "#"
+      "github": "https://github.com/Lodingglue"
     }
   },
   {
     "name": "BeestoXd",
     "role": "Full Stack Developer & DevOps Engineer",
     "image": "/placeholder.svg?height=400&width=400",
-    "bio": "Specializes in building robust full-stack applications with a focus on scalability and performance. Implements CI/CD pipelines and infrastructure as code to ensure seamless deployment and reliability.",
+    "bio": "Breaks things, then fixes them in a way that no one understands. Probably runs on caffeine.",
     "social": {
       "twitter": "#",
       "linkedin": "#",
@@ -25,19 +25,19 @@
     "name": "Mostafizur Rahman",
     "role": "Full Stack Developer",
     "image": "/placeholder.svg?height=400&width=400",
-    "bio": "The architect behind this very website. Turns coffee into code with alarming efficiency. Known for fixing impossible bugs while simultaneously creating new ones. If the site breaks, it's likely both his fault and his fix.",
+    "bio": "Built this site, broke it a few times, then somehow made it work. If something's wrong, he’s already fixing it… or pretending he doesn’t see it.",
     "social": {
       "twitter": "#",
       "linkedin": "#",
       "github": "#"
     },
-    "easterEgg": "Once coded for 72 hours straight and thought his rubber duck was giving him actual advice. Still insists it was right about the recursive function."
+    "easterEgg": "Once coded for 72 hours straight and started having full conversations with his rubber duck."
   },
   {
     "name": "AYAAN MCPE",
     "role": "Developer",
     "image": "/placeholder.svg?height=400&width=400",
-    "bio": "Code whisperer who somehow makes the impossible work. Probably held together by energy drinks and sheer willpower.",
+    "bio": "Sleeps once every update cycle. Makes things work when they really shouldn’t.",
     "social": {
       "twitter": "#",
       "linkedin": "#",
@@ -48,7 +48,7 @@
     "name": "FARIZ MCPE",
     "role": "Developer",
     "image": "/placeholder.svg?height=400&width=400",
-    "bio": "Turns complex problems into elegant solutions. Or at least solutions that don't immediately catch fire.",
+    "bio": "Either solving a bug or creating one—there is no in-between.",
     "social": {
       "twitter": "#",
       "linkedin": "#",
@@ -59,7 +59,7 @@
     "name": "Csub",
     "role": "Developer",
     "image": "/placeholder.svg?height=400&width=400",
-    "bio": "Infrastructure specialist who treats servers better than most people treat their pets. Speaks fluent Docker.",
+    "bio": "The guy who yells at servers when they misbehave. Somehow, they listen.",
     "social": {
       "twitter": "#",
       "linkedin": "#",
@@ -70,7 +70,7 @@
     "name": "Xzyyy",
     "role": "Developer",
     "image": "/placeholder.svg?height=400&width=400",
-    "bio": "Backend maestro who writes code so clean you could eat off it. Not that you should, but you could.",
+    "bio": "Writes backend code so solid it probably qualifies as a security vault.",
     "social": {
       "twitter": "#",
       "linkedin": "#",
@@ -81,7 +81,7 @@
     "name": "Lisa",
     "role": "Developer",
     "image": "/placeholder.svg?height=400&width=400",
-    "bio": "UI specialist who makes interfaces so intuitive even your grandma could use them. Yes, even your grandma.",
+    "bio": "Turns ugly UIs into sleek masterpieces. Still waiting for dark mode on everything.",
     "social": {
       "twitter": "#",
       "linkedin": "#",
@@ -92,7 +92,7 @@
     "name": "Aidgods",
     "role": "Developer",
     "image": "/placeholder.svg?height=400&width=400",
-    "bio": "Digital problem solver who debugs code like it personally offended them. Keyboard warrior in the most literal sense.",
+    "bio": "Writes code, breaks things, fixes them, then acts like it was all part of the plan.",
     "social": {
       "twitter": "#",
       "linkedin": "#",
@@ -103,7 +103,7 @@
     "name": "ExocubeYT",
     "role": "Developer",
     "image": "/placeholder.svg?height=400&width=400",
-    "bio": "Creates digital experiences that make users go 'woah' instead of 'why?' Pixel perfectionist with a side of chaos.",
+    "bio": "Builds things that make people go 'woah.' Occasionally forgets to sleep.",
     "social": {
       "twitter": "#",
       "linkedin": "#",
