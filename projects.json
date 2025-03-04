@@ -1,0 +1,40 @@
+[
+  {
+    title: "Flarite Network",
+    category: "Streaming",
+    image: "/placeholder.svg?height=600&width=800",
+    description:
+      "Be The Pirate With A Cruise. Stream anime, donghua, manhwa, manga, TV shows and more. Currently in Alpha phase.",
+    link: "https://flarite.site/",
+    discord: "https://discord.gg/pwJNVPRzfT",
+    features: [
+      "Anime & Donghua streaming",
+      "Manhwa & Manga reading",
+      "TV Shows (Netflix, Amazon, etc.)",
+      "Novels & Light Novels",
+      "Content filtering options",
+    ],
+    icon: <Tv className="h-6 w-6" />,
+  },
+  {
+    title: "Project Lumina",
+    category: "Gaming",
+    image: "/placeholder.svg?height=600&width=800",
+    description:
+      "The Lunaris Launcher For Minecraft: Bedrock Edition. Enhance your gameplay with mods, shaders, and more.",
+    link: "https://projectlumina.netlify.app/",
+    discord: "https://discord.gg/9PKxAsBXyq",
+    features: ["Version Switcher", "MOD LOADER", "Shader Loader", "DLL LOADER", "Hardware Monitor"],
+    icon: <Gamepad2 className="h-6 w-6" />,
+  },
+  {
+    title: "Project Lynx",
+    category: "Development",
+    image: "/placeholder.svg?height=600&width=800",
+    description: "The Lynx Framework Implementation for MCPE. Advanced tools for Minecraft Pocket Edition development.",
+    link: "https://prlynx.netlify.app/",
+    discord: "https://discord.gg/WuAmSeDeq4",
+    features: ["Apollon Client MOD", "DISCORD RPC", "Material 3", "Dependency Injection", "LICENCE PATCH"],
+    icon: <Code className="h-6 w-6" />,
+  },
+]
