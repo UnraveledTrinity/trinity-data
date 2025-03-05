@@ -79,15 +79,15 @@
       "github": "#"
     }
   },
-  {
-    "name": "Lisa",
-    "role": "Developer",
-    "image": "/placeholder.svg?height=400&width=400",
-    "bio": "Turns ugly UIs into sleek masterpieces. Still waiting for dark mode on everything.",
+  { 
+    "name": "Lyssadev",
+    "role": "Full-Stack Web Developer & App Patcher",
+    "image": "https://github.com/lyssadev.png",
+    "bio": "Code, Coffee, Repeat.",
     "social": {
-      "twitter": "#",
-      "linkedin": "#",
-      "github": "#"
+      "twitter": "https://x.com/lyssa_exe",
+      "discord": "lisa.sh",
+      "github": "https://github.com/lyssadev"
     }
   },
   {
