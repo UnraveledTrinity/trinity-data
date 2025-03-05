@@ -6,6 +6,7 @@
     "bio": "Unreadable Code? More like real-time obfuscation.",
     "social": {
       "youtube": "https://www.youtube.com/@LODINGGLUE69",
+      "discord": "fallencloverpetal",
       "github": "https://github.com/Lodingglue"
     }
   },
@@ -23,13 +24,13 @@
   {
     "name": "Mostafizur Rahman",
     "role": "Full Stack Developer",
-    "image": "/placeholder.svg?height=400&width=400",
-    "bio": "Built this site, broke it a few times, then somehow made it work. If something's wrong, he’s already fixing it… or pretending he doesn’t see it.",
+    "image": "https://avatars.githubusercontent.com/u/161594484?v=4",
+    "bio": "CORS Policy Error",
     "social": {
       "discord": "_.mr8391",
       "github": "https://github.com/Mostafizur-Rahman8391"
     },
-    "easterEgg": "Once coded for 72 hours straight and started having full conversations with his rubber duck."
+    "easterEgg": "bro fr looking for easter egg, ok - https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   {
     "name": "AYAAN MCPE",
@@ -42,15 +43,18 @@
       "github": "#"
     }
   },
-  {
+{ 
     "name": "FARIZ MCPE",
     "role": "Developer",
-    "image": "/placeholder.svg?height=400&width=400",
-    "bio": "Either solving a bug or creating one—there is no in-between.",
+    "image": "https://avatars.githubusercontent.com/u/90180951?v=4",
+    "bio": "Fr",
     "social": {
-      "twitter": "#",
-      "linkedin": "#",
-      "github": "#"
+      "twitter": "https://x.com/farizmcpe",
+      "instagram": "https://instagram.com/farizmcpe",
+      "youtube": "https://youtube.com/c/FARIZMCPE",
+      "discord": "https://dsc.gg/farizstudios",
+      "telegram": "https://t.me/farizstudios",
+      "github": "https://github.com/farizmcpe"
     }
   },
   {
