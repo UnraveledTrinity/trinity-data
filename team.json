@@ -58,12 +58,12 @@
   {
     "name": "Csub",
     "role": "Developer",
-    "image": "/placeholder.svg?height=400&width=400",
-    "bio": "The guy who yells at servers when they misbehave. Somehow, they listen.",
+    "image": "https://cdn.discordapp.com/avatars/1137437636601057340/8a850f703ff8111f9a5c9e45c977d9fb.webp",
+    "bio": "The 'Erling is Moaning' guy",
     "social": {
       "twitter": "#",
       "linkedin": "#",
-      "github": "#"
+      "github": "https://github.com/csubbdev"
     }
   },
   {
