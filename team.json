@@ -13,12 +13,13 @@
   {
     "name": "BeestoXd",
     "role": "Full Stack Developer & DevOps Engineer",
-    "image": "/placeholder.svg?height=400&width=400",
+    "image": "https://beestoxd.netlify.app/assets/images/beestoxd.jpg",
     "bio": "Breaks things, then fixes them in a way that no one understands. Probably runs on caffeine.",
     "social": {
-      "twitter": "#",
-      "linkedin": "#",
-      "github": "#"
+      "discord": "beestoxd",
+      "website": "https://beestoxd.netlify.app/",
+      "tiktok": "https://www.tiktok.com/@beesto.xd",
+      "github": "https://github.com/BeestoXd"
     }
   },
   {
@@ -60,11 +61,11 @@
   {
     "name": "Csub",
     "role": "Developer",
-    "image": "https://cdn.discordapp.com/avatars/1137437636601057340/8a850f703ff8111f9a5c9e45c977d9fb.webp",
-    "bio": "The 'Erling is Moaning' guy",
+    "image": "https://raw.githubusercontent.com/Mostafizur-Rahman8391/trinity-data/refs/heads/main/flarite.png",
+    "bio": "csub",
     "social": {
-      "twitter": "#",
-      "linkedin": "#",
+      "website": "https://e-z.bio/csub",
+      "youtube": "https://www.youtube.com/@csubbing",
       "github": "https://github.com/csubbdev"
     }
   },
