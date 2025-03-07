@@ -112,5 +112,16 @@
       "linkedin": "#",
       "github": "#"
     }
+  },
+  {
+    "name": "ChaseLovesThighs",
+    "role": "Security Architect",
+    "image": "/placeholder.svg?height=400&width=400",
+    "bio": "Cybersecurity is like an onion. There are layers and at some point you start to cry.",
+    "social": {
+      "discord": "ChaseLovesThighs",
+      "spotify": "https://open.spotify.com/user/31wgsztzqjbx372xnzn3prdehnaq?si=PZtHQLXmTQK7rUgOsLL3Iw",
+      "instagram": "https://www.instagram.com/chaselovesthighs?igsh=bnhmYzgwZWFuYmww"
+    }
   }
 ]
