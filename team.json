@@ -23,6 +23,18 @@
     }
   },
   {
+    "name": "Karina",
+    "role": "Scripting Developer & DevOps Engineer",
+    "image": "https://raw.githubusercontent.com/UnraveledTrinity/trinity-data/refs/heads/main/karinaa.png",
+    "bio": "Coffee?",
+    "social": {
+      "discord": "karinaafrtz",
+      "website": "#",
+      "tiktok": "https://www.tiktok.com/?",
+      "github": "https://github.com/karinaafritzen"
+    }
+  },
+  {
     "name": "Mostafizur Rahman",
     "role": "Full Stack Developer",
     "image": "https://avatars.githubusercontent.com/u/161594484?v=4",
